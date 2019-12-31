@@ -90,7 +90,7 @@ For each milestone, please describe:
 -->
 
 |Milestone No.|Milestone Description|Funding|Estimated Timeframe|
-|---|---|---|---|
+|---|---|---:|---|
 |1|Node Discovery and Crawler setup|45,000 USD|2 month|
 |2|Frontend client|45,000 USD|2 month|
 |3|Network analysis and visualization of infrastructure|45,000 USD|2 month|
