@@ -89,13 +89,13 @@ For each milestone, please describe:
 - How much time this milestone will take to achieve (using real dates)
 -->
 
-|Milestone No.|Milestone Description|Funding|Estimated Timeframe|
-|---|---|---:|---|
-|1|Node Discovery and Crawler setup|45,000 USD|2 month|
-|2|Frontend client|45,000 USD|2 month|
-|3|Network analysis and visualization of infrastructure|45,000 USD|2 month|
-|4|Run separate services for both Mainnet and Testnet|5,000 USD|1 week|
-|5|All project deliverables (website, documentation, codebase)|10,000 USD|2 weeks|
+| Milestone No. | Milestone Description                                       |    Funding | Estimated Timeframe |
+|---------------|-------------------------------------------------------------|-----------:|--------------------:|
+| 1             | Node Discovery and Crawler setup                            | 45,000 USD |             2 month |
+| 2             | Frontend client                                             | 45,000 USD |             2 month |
+| 3             | Network analysis and visualization of infrastructure        | 45,000 USD |             2 month |
+| 4             | Run separate services for both Mainnet and Testnet          |  5,000 USD |              1 week |
+| 5             | All project deliverables (website, documentation, codebase) | 10,000 USD |             2 weeks |
 
 Expected software functionalities after each milestone:
 - Milestone 1. (i) kafka- or celery-supported QoS detection tasks (ii) miner list and their QoS statistics, report, and QoS analysis (iii) periodically updated miner QoS information;
