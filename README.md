@@ -98,9 +98,18 @@ For each milestone, please describe:
 | 5             | All project deliverables (website, documentation, codebase) | 10,000 USD |             2 weeks |
 
 Expected software functionalities after each milestone:
-- Milestone 1. (i) kafka- or celery-supported QoS detection tasks (ii) miner list and their QoS statistics, report, and QoS analysis (iii) periodically updated miner QoS information;
-- Milestone 2. (i) a lightweight hybrid miner/client node, which collects and evaluates QoS of other mines, (ii) monitor nodes deployed (iii) dynamic site and real time updates;
-- Milestone 3. (i) redis-based aggregator infrastructure, which dynamically updates site contents, (ii) infrastructure dockerization (iii) visualization of miner distribution, geographic information, bandwidth, etc.
+- Milestone 1.
+  1. kafka- or celery-supported QoS detection tasks;
+  2. miner list and their QoS statistics, report, and QoS analysis;
+  3. periodically updated miner QoS information;
+- Milestone 2.
+  1. a lightweight hybrid miner/client node, which collects and evaluates QoS of other mines;
+  2. monitor nodes deployed;
+  3. dynamic site and real time updates;
+- Milestone 3.
+  1. redis-based aggregator infrastructure, which dynamically updates site contents;
+  2. infrastructure dockerization;
+  3. visualization of miner distribution, geographic information, bandwidth, etc.
 
 ## Total Budget Requested
 
