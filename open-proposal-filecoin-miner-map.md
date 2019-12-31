@@ -22,7 +22,7 @@ We want to (1) visualize the geographic distribution of miners and the compositi
 
 This project is the first step towards these goals.  Our project will visualize the location of miners and give comprehensive information about each network node. 
 
-We realize that there is already a RFP related to miner reputation.  However, only referencing prices to match orders from clients and offers from miners might be a drawback rather than a progress, since there are many other issues to consider (i.e. internet speed, latency).  We therefore consider displaying these quality of service and allow users to filter out nodes based on certain criterias they care about in an easy to use visualization tool.
+We realize that there is already a RFP related to miner reputation.  However, only referencing prices to match orders from clients and offers from miners might be a drawback rather than a progress, since there are many other issues to consider (i.e. internet speed, latency).  We therefore consider displaying these quality of service and allow users to filter out nodes based on certain criterias they care about in a visualization tool easy to use.
 
 ## Value
 
